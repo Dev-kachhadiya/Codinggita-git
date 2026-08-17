@@ -29,10 +29,10 @@ Answer. git push pushes the changes made in local repository into the remote rep
 Answer. git branch is a command used to see the selected and available branch names.
 
 11. What does git checkout do?
-Answer. git checkout is used the change the selected branch in local repository.
+Answer. git checkout is used to change the selected branch in local repository.
 
 12. Why do developers create feature branches?
-Answer. From my point of view as much as i know devloper creats feature branchs because if they don't want to make changes directly in main branch and there are many developers working on one project and they have divided works for each other then they can easily do their work in different branches without making changes in main branch.
+Answer. devloper creates feature branchs because if they don't want to make changes directly in main branch and there are many developers working on one project and they have divided works for each other then they can easily do their work in different branches without making changes in main branch.
 
 13. What is a Pull Request?
 Answer. Pull request is used to add the specific branch in main branch it is usually made by contributers to ask the owner of the repo to check their code and if the code has no errors in the code then to merge it in main branch.
